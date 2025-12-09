@@ -1,0 +1,22 @@
+{
+  "node": {
+    "dab3e30977f4d07f5d06ded7792fad47d22f4640": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkimsw%2FDocuments%2FGitHub%2Fnextjs-sns-app%2Factions%2Fposts.js%22%2C%5B%22createPost%22%2C%22togglePostLikeStatus%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "ddbecab315e9cf5557fbd58f48570420bb7a8fcf": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkimsw%2FDocuments%2FGitHub%2Fnextjs-sns-app%2Factions%2Fposts.js%22%2C%5B%22createPost%22%2C%22togglePostLikeStatus%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "ShTyejqX0jXTq28RPyCU60U4XYTb94mVhez0kQTwFTo="
+}
